@@ -1,0 +1,8 @@
+2:I[9088,["995","static/chunks/a220f059-b5ca3154efe83e47.js","173","static/chunks/173-6f1aeb057f115b73.js","931","static/chunks/app/page-c38a492001020dc0.js"],"Carousel"]
+3:I[8165,["173","static/chunks/173-6f1aeb057f115b73.js","231","static/chunks/231-3ae63636094ae716.js","964","static/chunks/964-95fdb8ab3ac29344.js","185","static/chunks/app/layout-2fa2c905c4d2627f.js"],"Navbar"]
+4:I[9275,[],""]
+5:I[1343,[],""]
+0:["5oDzraXpUpXzHnR_YqgVp",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",[["$","$L2",null,{}],["$","iframe",null,{"className":"aspect-video w-full","src":"https://www.youtube.com/embed/Wk2p0yduAI4?si=rqsON9YTJS9xMu-n"}]]],null],null]},[["$","html",null,{"lang":"id","className":"scroll-smooth","children":["$","body",null,{"className":"__className_9ecbd0","children":["$","main",null,{"className":"min-h-screen bg-white","children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L6","notFoundStyles":[],"styles":null}]]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/app-ingenio/_next/static/css/9166a779dc1788ff.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+6:E{"digest":"NEXT_REDIRECT;replace;/;307;"}
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"App - Ingenio Indonesia"}],["$","meta","3",{"name":"description","content":"App for Internal"}],["$","meta","4",{"name":"next-size-adjust"}]]
+1:null
