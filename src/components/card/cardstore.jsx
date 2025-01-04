@@ -84,6 +84,7 @@ function StoreCard() {
 									width={300}
 									height={300}
 									className='rounded-lg object-cover'
+                                    priority
 								/>
 							)}
 							{popupImages.length > 1 && (
@@ -93,6 +94,7 @@ function StoreCard() {
 									width={300}
 									height={300}
 									className='rounded-lg object-cover'
+                                    priority
 								/>
 							)}
 						</div>

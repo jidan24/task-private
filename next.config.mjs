@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    output: 'export', 
-    basePath: '/app-ingenio', 
-    distDir: 'dist',
-  };
-  
-  export default nextConfig;
+const nextConfig = {};
+
+export default nextConfig;
